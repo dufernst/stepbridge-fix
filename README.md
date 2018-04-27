@@ -1,1 +1,1 @@
-[fix stepbridge](javascript:BrowserDetectionTPLInstall('https://raw.githubusercontent.com/dufernst/stepbridge-fix/master/stepbridgefix.tpl', 'StepBridge', '12369', '00000000-0000-0000-0000-000000000000', this))
+[fix stepbridge](http://htmlpreview.github.io/?https://raw.githubusercontent.com/dufernst/stepbridge-fix/master/install.html)
