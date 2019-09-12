@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE10">
+<style>
+    body {
+        margin: 0px;
+        padding: 0px;
+    }
+
+    /* iframe's parent node */
+    div#root {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+    }
+
+    /* iframe itself */
+    #frame {
+        display: block;
+        width: 100%;
+        height: 100%;
+        border: none;
+    }
+    #overlay {
+        position: fixed;
+        width: 100%;
+        height: 100%;
+        z-index: 1000;
+    }
+</style>
+</head>
+<body>
+
+<div id="root">
+    <iframe id="frame" src="http://app.stepbridge.nl"></iframe>
+</div>
+
+</body>
+</html>
